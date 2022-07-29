@@ -75,7 +75,7 @@ You can download only the weights of the pretrained backbone used for downstream
 ## Training
 
 ### Installation
-Please install [PyTorch](https://pytorch.org/) and download the [ImageNet](https://imagenet.stanford.edu/) dataset. The experiments have been performed with python version 3.7.6, PyTorch version 1.7.0, CUDA 11.0 and torchvision 0.8.1.
+Please install [PyTorch](https://pytorch.org/) and download the [ImageNet](https://imagenet.stanford.edu/) dataset. The experiments have been performed with python version 3.7.6, PyTorch version 1.7.0, CUDA 10.1 and torchvision 0.8.1.
 
 The requirements are easily installed via
 [Anaconda](https://www.anaconda.com/distribution/#download-section):
