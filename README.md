@@ -83,7 +83,7 @@ The requirements are easily installed via
 ```bash 
 conda create -n attmask python=3.7.6
 conda activate attmask
-conda install pytorch==1.7.0 torchvision==0.8.1 cudatoolkit=11.0 pillow==8.0.1 -c pytorch
+conda install pytorch==1.7.0 torchvision==0.8.1 cudatoolkit=10.1 pillow==8.0.1 -c pytorch
 pip install timm==0.4.12 tensorboardx==2.5.1 scikit-learn==0.23.2 munkres==1.1.4 tqdm
 ```
 
