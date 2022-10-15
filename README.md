@@ -1,7 +1,7 @@
 # What to Hide from Your Students: Attention-Guided Masked Image Modeling
 
 PyTorch implementation and pretrained models for AttMask. 
-[[`arXiv`](https://arxiv.org/abs/2203.12719)]
+[[`paper`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900299.pdf)][[`arXiv`](https://arxiv.org/abs/2203.12719)]
 
 <div align="center">
   <img width="100%" alt="AttMask illustration" src=".github/overview.jpg">
