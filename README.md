@@ -1,7 +1,7 @@
 # What to Hide from Your Students: Attention-Guided Masked Image Modeling
 
 PyTorch implementation and pretrained models for AttMask. 
-[[`paper`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900299.pdf)][[`arXiv`](https://arxiv.org/abs/2203.12719)]
+[[`paper`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900299.pdf)][[`arXiv`](https://arxiv.org/abs/2203.12719)][[`DOI`](https://doi.org/10.1007/978-3-031-20056-4_18)]
 
 <div align="center">
   <img width="100%" alt="AttMask illustration" src=".github/overview.jpg">
@@ -262,12 +262,15 @@ This repository is released under the Apache 2.0 license as found in the [LICENS
 ## Citation
 If you find this repository useful, please consider giving a star :star: and citation:
 ```
-@article{kakogeorgiou2022attmask, 
-title={What to Hide from Your Students: Attention-Guided Masked Image Modeling}, 
-url={https://arxiv.org/abs/2203.12719}, 
-DOI={10.48550/arXiv.2203.12719}, 
-journal={arXiv.org}, 
-author={Kakogeorgiou, Ioannis and Gidaris, Spyros and Psomas, Bill and Avrithis, Yannis and Bursuc, Andrei and Karantzalos, Konstantinos and Komodakis, Nikos}, 
-year={2022}
+@InProceedings{kakogeorgiou2022attmask,
+author={Kakogeorgiou, Ioannis and Gidaris, Spyros and Psomas, Bill and Avrithis, Yannis and Bursuc, Andrei and Karantzalos, Konstantinos and Komodakis, Nikos},
+title={What to Hide from Your Students: Attention-Guided Masked Image Modeling},
+booktitle={Computer Vision -- ECCV 2022},
+year={2022},
+publisher={Springer Nature Switzerland},
+pages={300-318},
+isbn={978-3-031-20056-4},
+url={https://link.springer.com/chapter/10.1007/978-3-031-20056-4_18},
+DOI={10.1007/978-3-031-20056-4_18}
 }
 ```
