@@ -256,6 +256,8 @@ If you face NCCL errors during the evaluations, try to use `--backend gloo`.
 
 This repository is built using the [iBOT](https://github.com/bytedance/ibot), [DINO](https://github.com/facebookresearch/dino), [BEiT](https://github.com/microsoft/unilm/tree/master/beit) and [ImageNet-9](https://github.com/MadryLab/backgrounds_challenge) repositories.
 
+NTUA thanks NVIDIA for the support with the donation of GPU hardware.
+
 ## License
 This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE) file.
 
