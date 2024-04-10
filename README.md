@@ -263,7 +263,7 @@ This repository is released under the Apache 2.0 license as found in the [LICENS
 
 ## Citation
 If you find this repository useful, please consider giving a star :star: and citation:
-```
+```bibtex
 @InProceedings{kakogeorgiou2022attmask,
 author={Kakogeorgiou, Ioannis and Gidaris, Spyros and Psomas, Bill and Avrithis, Yannis and Bursuc, Andrei and Karantzalos, Konstantinos and Komodakis, Nikos},
 title={What to Hide from Your Students: Attention-Guided Masked Image Modeling},
