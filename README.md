@@ -1,6 +1,6 @@
 # What to Hide from Your Students: Attention-Guided Masked Image Modeling
 
-PyTorch implementation and pretrained models for AttMask. 
+[ECCV 2022] PyTorch implementation and pretrained models for AttMask. 
 [[`paper`](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900299.pdf)][[`arXiv`](https://arxiv.org/abs/2203.12719)][[`DOI`](https://doi.org/10.1007/978-3-031-20056-4_18)]
 
 <div align="center">
